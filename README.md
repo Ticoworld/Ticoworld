@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ticoworld
-- 👀 I’m interested in ...Web dev.
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <h2>👋 Hi, I’m Timothy (@Ticoworld)</h2>
+  <h3>💻 Full Stack Engineer | Next.js & Solana Specialist</h3>
+</div>
 
-<!---
-Ticoworld/Ticoworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+**My Focus:**
+
+- 👁️ **I Build:** High-performance DApps, scalable web applications, and robust trading interfaces.
+- 🛠️ **Tech Stack:** Next.js (TS), React, Node.js, Jupiter API, PostgreSQL, Redis.
+- 🚀 **Niche:** Solana Ecosystem, custom RPC architecture, and optimizing for speed/uptime.
+
+**Connect & Collaborate:**
+
+- 🤝 **I’m looking to collaborate on:** Open-source Web3 projects or ambitious contract roles.
+- 🔗 **LinkedIn:** [Timothy Chinecherem](https://www.linkedin.com/in/timothy-chinecherem)
+- 📫 **Reach me:** [timothyticoworld@gmail.com](mailto:timothyticoworld@gmail.com)
