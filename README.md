@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Hi, I’m Timothy (@Ticoworld)</h2>
-  <h3>💻 Full Stack Engineer | Next.js & Solana Specialist</h3>
+  <h3>💻 Software Engineer building SaaS products, dashboards, workflow software, and web apps with Next.js, TypeScript, Node.js, and PostgreSQL.</h3>
 </div>
 
 ---
